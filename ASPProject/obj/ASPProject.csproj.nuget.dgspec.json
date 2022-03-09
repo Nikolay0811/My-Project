@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ники\\Desktop\\Планове\\ASPProject\\ASPProject\\ASPProject.csproj": {}
+    "C:\\Users\\ники\\Desktop\\My-Project\\ASPProject\\ASPProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ники\\Desktop\\Планове\\ASPProject\\ASPProject\\ASPProject.csproj": {
+    "C:\\Users\\ники\\Desktop\\My-Project\\ASPProject\\ASPProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ники\\Desktop\\Планове\\ASPProject\\ASPProject\\ASPProject.csproj",
+        "projectUniqueName": "C:\\Users\\ники\\Desktop\\My-Project\\ASPProject\\ASPProject.csproj",
         "projectName": "ASPProject",
-        "projectPath": "C:\\Users\\ники\\Desktop\\Планове\\ASPProject\\ASPProject\\ASPProject.csproj",
+        "projectPath": "C:\\Users\\ники\\Desktop\\My-Project\\ASPProject\\ASPProject.csproj",
         "packagesPath": "C:\\Users\\ники\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ники\\Desktop\\Планове\\ASPProject\\ASPProject\\obj\\",
+        "outputPath": "C:\\Users\\ники\\Desktop\\My-Project\\ASPProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -59,13 +59,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Contracts": {
               "target": "Package",

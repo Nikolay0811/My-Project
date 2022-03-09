@@ -12,6 +12,6 @@ namespace ASPProject.Data
         public string Name { get; set; }
         public string Text { get; set; }
         public string Fotos { get; set; }
-        public decimal Data { get; set; }
+        public DateTime Data { get; set; }
     }
 }
